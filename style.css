@@ -30,13 +30,11 @@
   height: auto;
   position: relative;
   border-radius: 16px;
-}  
-.top__title{
-  margin-top: 60px;
-} 
+}   
 .top__name {
   position: absolute;
-  margin-left: 80px;
+  top: 80px;
+  left: 80px;
   color: #2F729C;;
   font-family: Hiragino Kaku Gothic ProN W6;
   font-size: 40px;
@@ -46,8 +44,8 @@
 }
 .top__job {
   position: absolute;
-  left: 90px;
-  margin-top: 20px;
+  left: 80px;
+  top: 180px;
   position: absolute;
   color: #2F729C;;
   font-family: Hiragino Kaku Gothic ProN W6;
