@@ -30,11 +30,13 @@
   height: auto;
   position: relative;
   border-radius: 16px;
-}   
+}  
+.top__title{
+  margin-top: 60px;
+} 
 .top__name {
   position: absolute;
-  top: 90px;
-  left: 90px;
+  margin-left: 80px;
   color: #2F729C;;
   font-family: Hiragino Kaku Gothic ProN W6;
   font-size: 40px;
@@ -49,7 +51,7 @@
   position: absolute;
   color: #2F729C;;
   font-family: Hiragino Kaku Gothic ProN W6;
-  font-size: 32.5px;
+  font-size: 24px;
   background-color: #fff;
   padding: 20px 30px;  
 }
